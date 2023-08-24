@@ -7,7 +7,7 @@ setup(
     name='osmo_trade',
     version='0.1.1',
     description='SDK to trade on osmosis DEX',
-    url='https://github.com/0xmercury/osmo_trade',
+    url='https://github.com/staking-explorer/osmo_trade_se',
     long_description= readme,
     long_description_content_type="text/markdown",
     author='0xmercury',
@@ -25,6 +25,6 @@ setup(
         'Programming Language :: Python :: 3.9',
     ],
     project_urls={
-        "Source": "https://github.com/0xmercury/osmo_trade",
+        "Source": "https://github.com/staking-explorer/osmo_trade_se",
     }
 )
